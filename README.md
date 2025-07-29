@@ -298,7 +298,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ------------
 
-### 💼 App Store
+### 💼 Application Store
 
 - `WDA` [FluentStore](https://github.com/yoshiask/FluentStore) <sup>`FOSS`</sup>
 - `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) <sup>`FOSS`</sup>
@@ -368,7 +368,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [MyFTP](https://github.com/luandersonn/MyFTP) <sup>`FOSS`</sup>
 - `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM) `💰`
 - `WDM` [Shrestha Files Free](https://apps.microsoft.com/store/detail/shrestha-files-free/9PLL2XRXQ9LF)
-
+- `WDM` `WDA` [RX-Explorer (WAS)](https://apps.microsoft.com/detail/9pdn2q3dcqs3)
+- `WDM` `WDA` [RX-Explorer (UWP)](https://github.com/zhuxb711/RX-Explorer) <sup>`FOSS`</sup>
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
